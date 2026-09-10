@@ -71,7 +71,7 @@ brew uninstall --cask neatfreak
 
 ## 제작 및 문의
 
-**Sanghyun Park** · [seanlab@gmail.com](mailto:seanlab@gmail.com)
+**sean** · [seanlab@gmail.com](mailto:seanlab@gmail.com)
 
 [버그 신고 및 기능 제안](https://github.com/sean-lab/homebrew-neatfreak/issues)에 macOS·앱 버전과 재현 방법을 남겨주세요. 첨부 화면에서는 개인 파일명과 경로를 가려주세요.
 

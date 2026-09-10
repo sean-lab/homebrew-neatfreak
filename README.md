@@ -80,7 +80,7 @@ Sizes represent **logical file sizes**, not physical disk space used. APFS clone
 
 ## Project & support
 
-Built by **Sanghyun Park** · [seanlab@gmail.com](mailto:seanlab@gmail.com)
+Built by **sean** · [seanlab@gmail.com](mailto:seanlab@gmail.com)
 
 Found a problem or have an idea? [Open an issue](https://github.com/sean-lab/homebrew-neatfreak/issues) with your macOS version, app version, and steps to reproduce. Remove private file names and paths from any screenshots you share.
 
