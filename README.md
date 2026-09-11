@@ -6,7 +6,7 @@
   <p>
     <img src="https://img.shields.io/badge/macOS-14%2B-1677FF?style=flat-square" alt="macOS 14 and later">
     <img src="https://img.shields.io/badge/Apple%20Silicon%20%2B%20Intel-Universal-454545?style=flat-square" alt="Universal app for Apple Silicon and Intel">
-    <img src="https://img.shields.io/badge/release-0.2.0%20preview-805AD5?style=flat-square" alt="0.2.0 preview">
+    <img src="https://img.shields.io/badge/release-0.2.1%20preview-805AD5?style=flat-square" alt="0.2.1 preview">
   </p>
   <p><a href="#install">Install</a> · <a href="#made-for-your-workflow">Features</a> · <a href="https://github.com/sean-lab/homebrew-neatfreak/releases">Releases</a> · <a href="README.ko.md">한국어</a></p>
 </div>
@@ -23,7 +23,7 @@
 
 | Explore | Understand | Take action |
 | :--- | :--- | :--- |
-| Move between folders with history, parent navigation, and an editable path. | Calculate folder sizes, including files inside subfolders. | Select a range or several files and copy, move, or trash them together. Drag files out to other apps, or drop files in to copy them. |
+| Move between folders with history, parent navigation, and an editable path. | Calculate folder sizes, including files inside subfolders. | Select a range or several files and copy, move, or trash them together. Drag files out to other apps or the Trash, or drop files in to copy them. |
 | Sort by column headers and adjust columns and side panels. | Reuse cached size results while navigating and react to filesystem changes. | Preview supported files in the right panel and choose an app with **Open With**. |
 
 **Comfortable on your Mac.** Light, dark, or system appearance. English, 한국어, 日本語, and 简体中文. Native keyboard shortcuts and macOS file-type icons.
@@ -40,7 +40,7 @@ Requires **macOS 14 Sonoma or later**. One universal app supports **Apple Silico
 
 Prefer a manual download? Get the ZIP from [Releases](https://github.com/sean-lab/homebrew-neatfreak/releases), extract it, and move `NeatFreak.app` to Applications.
 
-> **Preview release:** 0.2.0 is ad-hoc signed and not notarized by Apple. macOS may require approval in **System Settings → Privacy & Security** before opening it. This cask does not bypass Gatekeeper or change security settings.
+> **Preview release:** 0.2.1 is ad-hoc signed and not notarized by Apple. macOS may require approval in **System Settings → Privacy & Security** before opening it. This cask does not bypass Gatekeeper or change security settings.
 
 Already installed manually? Quit NeatFreak and move the existing app out of `/Applications` before installing with Homebrew. Your documents are unaffected.
 
