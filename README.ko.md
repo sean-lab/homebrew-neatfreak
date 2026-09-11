@@ -3,7 +3,7 @@
   <h1>NeatFreak</h1>
   <p><strong>파일은 제자리에. 작업은 더 편안하게.</strong></p>
   <p>폴더를 자유롭게 탐색하고, 용량을 파악하고, 파일을 바로 미리 보세요.<br>Mac을 위한 네이티브 파일 유틸리티.</p>
-  <p>macOS 14 이상 · Apple Silicon & Intel · 0.2.2 Preview</p>
+  <p>macOS 14 이상 · Apple Silicon & Intel · 0.2.3 Preview</p>
   <p><a href="#설치">설치</a> · <a href="https://github.com/sean-lab/homebrew-neatfreak/releases">다운로드</a> · <a href="README.md">English</a></p>
 </div>
 
@@ -36,7 +36,7 @@ brew install --cask sean-lab/neatfreak/neatfreak
 
 직접 설치하려면 [Releases](https://github.com/sean-lab/homebrew-neatfreak/releases)에서 ZIP을 내려받아 압축을 풀고 `NeatFreak.app`을 응용 프로그램 폴더로 옮기세요.
 
-> **테스트 버전 안내:** 0.2.2은 임시 서명된 앱으로 Apple 공증을 받지 않았습니다. 최초 실행 시 **시스템 설정 → 개인정보 보호 및 보안**에서 승인이 필요할 수 있습니다. 설치 과정에서 Gatekeeper를 우회하거나 보안 설정을 변경하지 않습니다.
+> **테스트 버전 안내:** 0.2.3은 임시 서명된 앱으로 Apple 공증을 받지 않았습니다. 최초 실행 시 **시스템 설정 → 개인정보 보호 및 보안**에서 승인이 필요할 수 있습니다. 설치 과정에서 Gatekeeper를 우회하거나 보안 설정을 변경하지 않습니다.
 
 이미 수동 설치했다면 앱을 종료하고 기존 앱을 `/Applications` 밖으로 옮긴 뒤 Homebrew로 설치하세요. 문서 파일에는 영향을 주지 않습니다.
 
