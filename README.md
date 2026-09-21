@@ -6,7 +6,7 @@
   <p>
     <img src="https://img.shields.io/badge/macOS-14%2B-1677FF?style=flat-square" alt="macOS 14 and later">
     <img src="https://img.shields.io/badge/Apple%20Silicon%20%2B%20Intel-Universal-454545?style=flat-square" alt="Universal app for Apple Silicon and Intel">
-    <img src="https://img.shields.io/badge/release-0.2.5%20preview-805AD5?style=flat-square" alt="0.2.5 preview">
+    <img src="https://img.shields.io/badge/release-0.2.6%20preview-805AD5?style=flat-square" alt="0.2.6 preview">
   </p>
   <p><a href="#install">Install</a> · <a href="#made-for-your-workflow">Features</a> · <a href="https://github.com/sean-lab/homebrew-neatfreak/releases">Releases</a> · <a href="README.ko.md">한국어</a></p>
 </div>
@@ -42,7 +42,7 @@ Requires **macOS 14 Sonoma or later**. One universal app supports **Apple Silico
 
 Prefer a manual download? Get the ZIP from [Releases](https://github.com/sean-lab/homebrew-neatfreak/releases), extract it, and move `NeatFreak.app` to Applications.
 
-> **Preview release:** 0.2.5 is ad-hoc signed and not notarized by Apple. macOS may require approval in **System Settings → Privacy & Security** before opening it. This cask does not bypass Gatekeeper or change security settings.
+> **Preview release:** 0.2.6 is ad-hoc signed and not notarized by Apple. macOS may require approval in **System Settings → Privacy & Security** before opening it. This cask does not bypass Gatekeeper or change security settings.
 
 Already installed manually? Quit NeatFreak and move the existing app out of `/Applications` before installing with Homebrew. Your documents are unaffected.
 
