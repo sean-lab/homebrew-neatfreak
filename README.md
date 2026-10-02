@@ -6,7 +6,7 @@
   <p>
     <img src="https://img.shields.io/badge/macOS-14%2B-1677FF?style=flat-square" alt="macOS 14 and later">
     <img src="https://img.shields.io/badge/Apple%20Silicon%20%2B%20Intel-Universal-454545?style=flat-square" alt="Universal app for Apple Silicon and Intel">
-    <img src="https://img.shields.io/badge/release-0.2.10%20preview-805AD5?style=flat-square" alt="0.2.10 preview">
+    <img src="https://img.shields.io/badge/release-0.2.11%20preview-805AD5?style=flat-square" alt="0.2.11 preview">
   </p>
   <p><a href="#install">Install</a> · <a href="#made-for-your-workflow">Features</a> · <a href="https://github.com/sean-lab/homebrew-neatfreak/releases">Releases</a> · <a href="README.ko.md">한국어</a></p>
 </div>
@@ -30,7 +30,7 @@ Create folders and empty files from the **+** button or context menu. Browse **A
 
 **Comfortable on your Mac.** Light, dark, or system appearance. English, 한국어, 日本語, and 简体中文. Native keyboard shortcuts and macOS file-type icons.
 
-**Your files stay local.** No account to create and no file uploads. NeatFreak works with the files and folders you browse on your Mac.
+**Your files stay local.** No account to create and no file uploads. NeatFreak works with the files and folders you browse on your Mac. The app itself only goes online for a daily check for a new version, which you can switch off in Settings.
 
 ## Install
 
@@ -42,7 +42,7 @@ Requires **macOS 14 Sonoma or later**. One universal app supports **Apple Silico
 
 Prefer a manual download? Get the ZIP from [Releases](https://github.com/sean-lab/homebrew-neatfreak/releases), extract it, and move `NeatFreak.app` to Applications.
 
-> **Preview release:** 0.2.10 is ad-hoc signed and not notarized by Apple. macOS may require approval in **System Settings → Privacy & Security** before opening it. This cask does not bypass Gatekeeper or change security settings.
+> **Preview release:** 0.2.11 is ad-hoc signed and not notarized by Apple. macOS may require approval in **System Settings → Privacy & Security** before opening it. This cask does not bypass Gatekeeper or change security settings.
 
 Already installed manually? Quit NeatFreak and move the existing app out of `/Applications` before installing with Homebrew. Your documents are unaffected.
 
@@ -64,6 +64,8 @@ Already installed manually? Quit NeatFreak and move the existing app out of `/Ap
 Double-click the title-bar path to edit it. While editing, use arrow keys to choose a folder suggestion, Tab to complete the path, and Return to navigate. Double-click the empty title-bar area to zoom the window, or whatever your Mac's title-bar double-click setting says.
 
 ## Keep it up to date
+
+NeatFreak tells you when a new version is out: the Settings row in the sidebar shows **Update**, and **Settings › Updates** has the details. To update:
 
 ```sh
 brew update

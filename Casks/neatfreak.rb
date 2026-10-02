@@ -1,6 +1,6 @@
 cask "neatfreak" do
-  version "0.2.10"
-  sha256 "9197130dc8c5789f82d8060a369d9bbfdc83ca9522d021eff8236e07edc0c964"
+  version "0.2.11"
+  sha256 "31e9f1e60c536de3845dc4cafaded35e9e98137ab80bf87b253829566edbf187"
 
   url "https://github.com/sean-lab/homebrew-neatfreak/releases/download/v#{version}/NeatFreak-#{version}-universal.zip"
   name "NeatFreak"
